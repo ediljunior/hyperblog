@@ -5,6 +5,8 @@ Esta es la historia de Junior cuando Comenzó a estudiar git
 
 Experimiento 1
 
+Experimiento 2
+
 master 1
 
 master 2
